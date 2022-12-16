@@ -1,0 +1,15 @@
+﻿click==7.1.2
+defusedxml==0.7.1
+Flask==1.1.4
+fpdf2==2.5.5
+itsdangerous==1.1.0
+Jinja2==2.11.3
+MarkupSafe==2.0.1
+numpy==1.23.5
+pandas==1.4.3
+Pillow==9.3.0
+python-dateutil==2.8.2
+pytz==2022.6
+PyYAML==6.0
+six==1.16.0
+Werkzeug==1.0.1
